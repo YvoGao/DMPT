@@ -1,20 +1,17 @@
 # Learning Dual-Modal Prototypes for CLAP-based Few-Shot Audio Classification
 
-> [**Learning Dual-Modal Prototypes for CLAP-based Few-Shot Audio Classification**]
-
 
 
 
 ## Table of Contents
-- [Installation](#installation)
-- [Model](#model)
-- [Datasets](#datasets)
-- [Code Structure](#code-structure)
-- [Run Experiments](#run-experiments)
-- [Results](#results)
-- [Citation](#citation)
-- [Contact](#contact)
-- [Acknowledgement](#acknowledgement)
+- [Learning Dual-Modal Prototypes for CLAP-based Few-Shot Audio Classification](#learning-dual-modal-prototypes-for-clap-based-few-shot-audio-classification)
+  - [Table of Contents](#table-of-contents)
+  - [Installation :gear:](#installation-gear)
+  - [Model :white\_square\_button:](#model-white_square_button)
+  - [Datasets :page\_with\_curl:](#datasets-page_with_curl)
+  - [Code Structure :snowflake:](#code-structure-snowflake)
+  - [Run Experiments :zap:](#run-experiments-zap)
+  - [Acknowledgement :pray:](#acknowledgement-pray)
 
 </br>
 </br>
@@ -146,7 +143,7 @@ bash results.sh
 <details>
 <summary>Sample Output</summary>
 
-![main figure](/media/Result.pdf)
+![main figure](./media/Results.png)
 
 </details>
 

@@ -1,0 +1,10 @@
+from .zeroshot import ZeroShotPENGI as ZeroShot
+from .coop import CustomPENGI as COOP
+from .cocoop import CustomPENGI as COCOOP
+from .palm import CustomPENGI as PALM
+from .pealm import CustomPENGI as DMPT
+from .pnalm import CustomPENGI as PNALM
+from .moaalm import CustomPENGI as MOAALM
+from .ldc import CustomPENGI as LDC
+from .claps import CustomPENGI as CLAPS
+from .frelap import CustomPENGI as FREALM

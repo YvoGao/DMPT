@@ -158,7 +158,7 @@ bash results.sh
 
 
 ## Acknowledgement :pray:
-We used [PENGI](https://github.com/microsoft/Pengi) for model instantiation and borrowed a part of code from [COOP/COCOOP](https://github.com/KaiyangZhou/CoOp) [PALM](https://github.com/asif-hanif/DMPT) to implement baselines. We thank the respective authors for releasing the code.
+We used [PENGI](https://github.com/microsoft/Pengi) for model instantiation and borrowed a part of code from [COOP/COCOOP](https://github.com/KaiyangZhou/CoOp) and [PALM](https://github.com/asif-hanif/DMPT) to implement baselines. We thank the respective authors for releasing the code.
 
 <hr />
 

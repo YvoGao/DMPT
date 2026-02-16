@@ -146,7 +146,7 @@ bash results.sh
 <details>
 <summary>Sample Output</summary>
 
-![main figure](/media/Result.pdf)
+![main figure](./media/Result.pdf)
 
 </details>
 

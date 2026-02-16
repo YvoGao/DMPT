@@ -143,11 +143,9 @@ bash results.sh
 <details>
 <summary>Sample Output</summary>
 
-<<<<<<< HEAD
+
 ![main figure](./media/Results.png)
-=======
-![main figure](./media/Result.pdf)
->>>>>>> 9699348b6712fabf562d7b890ea2071d17dcf310
+
 
 </details>
 
